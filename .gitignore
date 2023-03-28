@@ -1,0 +1,9 @@
+*.dat
+*.data
+
+*.nc
+
+data/
+output/
+
+.DS_Store
